@@ -30,7 +30,7 @@ This function checks the value of `_x` and uses an `if` statement to check if `_
 This function checks the value of `_x` and uses the `assert` statement to verify that `_x` is less than 30. If the condition is false, it throws an error and reverts all changes made in the function. Otherwise, it sets `num` to 50.
 
 ## Authors
-Vaishnavi Arora
+Mukund Singh Parmar
 
 ## License
 This contract is licensed under the MIT License. SPDX-License-Identifier: MIT.
